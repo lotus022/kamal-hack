@@ -1,7 +1,4 @@
-# OhMyQR v1.0
-## Author: github.com/thelinuxchoice
-## IG: instagram.com/thelinuxchoice
-### Don't copy this code without give me the credits, nerd! 
+
 
 QR Code Jacking (Any Website)
 
@@ -21,8 +18,3 @@ git clone https://github.com/thelinuxchoice/ohmyqr
 cd ohmyqr
 bash ohmyqr.sh
 ```
-
-### Donate!
-Support the authors:
-
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
